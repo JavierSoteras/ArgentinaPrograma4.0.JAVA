@@ -1,3 +1,7 @@
 inciso 3 de la actividad práctica.
 inciso 5 de la actividad práctica.
+<<<<<<< HEAD
 inciso 7 de la actividad práctica (modificación desde mi repertorio local).
+=======
+inciso 7 de la actividad práctica (modificación desde la interfaz web de GitHub).
+>>>>>>> d6953635ab50f7d123a81b5a2a2ad7713688b7b2
